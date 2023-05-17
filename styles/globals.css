@@ -54,12 +54,17 @@ body {
 }
 
 button {
-    border: 1px solid;
+    border: 2px solid white;
     border-radius: 18px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: white;
+    color: rgb(15, 188, 215);
 }
 
 button:hover {
     background-color: rgb(182, 228, 254);
+    transform: scale(1.2);
+    border: 2px solid white;
+    background-color: rgb(15, 188, 215);
+    color: white;
 }

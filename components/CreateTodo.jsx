@@ -18,7 +18,7 @@ export default function CreateTodo() {
 
   return (
     <>
-      <form className="design">
+      <form >
         <label>Title:</label>
         <br />
         <input
